@@ -1,6 +1,6 @@
 - Hello!! im juupeep.
-I am fresh off the womb starting to learn how to code
-Would love to recieve some help, some tips and tricks
+I am fresh off the womb starting to learn how to code.
+Would love to recieve some help, some tips and tricks.
 Thank you.
 
 <!---
